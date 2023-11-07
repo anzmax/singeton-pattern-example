@@ -1,0 +1,1 @@
+# singeton-pattern-example
